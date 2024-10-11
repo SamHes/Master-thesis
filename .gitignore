@@ -1,2 +1,4 @@
 data/
 Course assignment/
+.venv/
+.env
