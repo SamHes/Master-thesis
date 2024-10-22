@@ -6,5 +6,10 @@ For contact, please send an email.
 To be able to run the code in this repo, a working version of Python should be installed.
 In addition, several API keys are used for collecting the necessary data:
 - Etherscan
+- Arbiscan
+- Basescan
+- Optimistic.Etherscan
+- Polygonscan
 - The Graph
 - Infura
+- Snapshot
